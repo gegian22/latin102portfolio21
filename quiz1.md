@@ -13,19 +13,19 @@ identify the tense, voice, mood, person, and number.
 
 if the form is singular, convert to plural; if the form is plural, convert to singular
 
-petivisset: pluperfect, active, subjunctive, third, and singular. 
+petivisset: pluperfect, active, subjunctive, third, and singular. Petiviseent 
 
-necauit: Perfect, active, indicative, third, and singular. 
+necauit: Perfect, active, indicative, third, and singular. Necaverunt 
 
 necari: Present, passive, *infinitive*
 
-rogaretur:Imperfect, passive, subjunctive, third, and singular. 
+rogaretur:Imperfect, passive, subjunctive, third, and singular. Rogarentur 
 
-coepit: present, active, indicative, third, and singular. 
+coepit: present, active, indicative, third, and singular. coepiunt 
 
-interfecisset: Pluperfect, active, subjunctive, third, singular. 
+interfecisset: Pluperfect, passive, subjunctive, third, singular. Interfecissent
 
-misit: perfect, active, indative, third, singular. 
+misit: perfect, active, indative, third, singular. misserunt 
 
 Part 3: Latin composition
 Translate (only) the italicized verb forms into Latin. E.g., if you were given “Hercules saw Deianira,” you could translate saw with vidit.
