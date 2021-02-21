@@ -5,8 +5,10 @@ Identify the gender, case and number, and gender of each noun. If there are mult
 filiam: Feminine, accusative, and singular
 in coniugium: neuter, accusative, adn singular. "In" means into when combined with accusative. ❓ *Translate prepositional **phrases**.*
 animo: masculine, singular, ablative  ❌
+
 uirgine: feminine, singular, ablative 
 parentes: neuter, plural, and nominative  ❌
+
 ad uxorem: feminine, singular, and accusative. "Ad" means towards when combined with accusative. ❓ *Translate prepositional **phrases**.*
 
 Part 2: recognizing verbs
