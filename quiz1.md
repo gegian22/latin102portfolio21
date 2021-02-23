@@ -7,7 +7,7 @@ in coniugium: neuter, accusative, and singular. In marriage.
 
 animo: masculine, singular, ablative or dative 
 
-uirgine: feminine, singular, ablative 
+uirgine: masculine, singular, ablative 
 
 parentes: masculine/feminine, singular, and accusative or nominative 
 
