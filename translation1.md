@@ -19,7 +19,9 @@ Hercules *interuenit* et centaurum *interfecit*, Deianiram *abduxit*.
 Part B: 
 
 1.Dexamenus, Dexameni, m. Dexamenum is accusative, singular, masculine. 
+
 2.Deianira, Deianirae, f. Deianiram is accusative, singular, feminine. 
+
 3.It is an a singular, imperfect, active verb. It is in the subjunctive mood with an active voice because it is to describe the circumstances  ❌
 
 Third person, active, imperfect, subjunctive, singular verb. It is in the subjunctive verb becasue it is being used to describe the circumstances. 
