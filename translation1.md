@@ -39,7 +39,7 @@ Third person, active, imperfect, subjunctive, singular verb. It is in the subjun
 4.uenisset is the third person singular pluperfect active subjunctive form of the verb veniō.  ❌
 Uenisset: third person, pluperfect, active, subjunctive and singular verb because it is describing the circumstances. 
 
-5. Pollicutis sum  ❌
+5. Polliceor 
 
 6.singular ablative because it's describing the time. 👍 *Yes, specifically the time **when** something occurred (as opposed to **duration** of time expressed with the accusative).*
 
