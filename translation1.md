@@ -2,9 +2,9 @@
 
 Part A: 
 
-Hercules *cum* in hospitium
-  >ad Dexamenum regem uenisset eiusque filiam Deianiram *deuirginasset*,
-   > *volebat* eam uxorem *ducere*.
+Hercules
+>*cum* in hospitium ad Dexamenum regem uenisset eiusque filiam Deianiram *deuirginasset*,
+> *volebat* eam uxorem *ducere*.
   
 >cum Hercules *abesset*,
 centaurus Eurytion *petit* Deianiram uxorem. 
@@ -33,7 +33,7 @@ Uenisset: third person, pluperfect, active, subjunctive and singular verb becaus
 
 Part C Translation: 
 
-When Hercules came in hospitality to Dexamenum, the king gave his daughter to Hercules and he then married and deflowered her. 
+When Hercules came in hospitality to Dexamenum, and when Hercules deprived Deinara of her virginity then, he wanted to marry her. 
 
 When Hercules was away, a centaur asks for his wife Deianira. 
 
