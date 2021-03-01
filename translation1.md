@@ -33,7 +33,7 @@ Uenisset: third person, pluperfect, active, subjunctive and singular verb becaus
 
 Part C Translation: 
 
-When Hercules came in hospitality to Dexamenum, and when Hercules deprived Deinara of her virginity then, he wanted to marry her. 
+When Hercules came in hospitality to Dexamenum, the king, he deprived Deinara of her virginity and then he wanted to marry her. 
 
 When Hercules was away, a centaur asks for his wife Deianira. 
 
