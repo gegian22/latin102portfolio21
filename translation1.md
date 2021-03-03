@@ -57,4 +57,8 @@ Because the father was afraid of the Centuar, he promised to give the daughter i
 
 At the specififed time, the centaur came to the wedding, was killed and Deinaniram was abducted. 
 
+<<<<<<< HEAD
 Hercules interfered, and killed the centaur,  he carried off Deianira.
+=======
+
+>>>>>>> 397df084b26d09cfd188b28948cae7fd0778816d
