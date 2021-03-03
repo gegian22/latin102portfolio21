@@ -4,7 +4,8 @@ Part A:
 
 Hercules
 
->*cum* in hospitium ad Dexamenum regem uenisset eiusque filiam Deianiram *deuirginasset*,
+>cum in hospitium ad Dexamenum regem *uenisset* 
+>eiusque filiam Deianiram *deuirginasset*,
 
 *volebat* eam uxorem *ducere*.
   
