@@ -8,6 +8,7 @@ Your fourth sentence should say that Iole endured that her parents were killed.
 Your fifth statement should say that when he had killed all of them, he sent Iole to Deianira.
 
 
+
 Quid❌ Herculem veniit Oechalia, conjungo ❌ Iole petere ominis pater. 
 Quia Eurytus Nollet, captus est Oechalia Herculem.❌ 
 Didicit Herculem occidere patrem.❌ 
