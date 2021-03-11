@@ -14,3 +14,4 @@ Quia Eurytus Nollet, captus est Oechalia Herculem.❌
 Didicit Herculem occidere patrem.❌ 
 Iole occiditur parentis pati.❌ 
 Quid Herculem occiditur familias,❌ quod Iore ut missus sit Deinaria. ❌ 
+
