@@ -1,7 +1,7 @@
 **Needs revisions**
 
- 1. Eurytion and his brothers, who were violent centaurs, came to the wedding.  ❌
-  1. Quod ❌
+ 1. The brothers, whom Eurytion came to the wedding with, were violent Centaurs. 
+  1. Cum quibus 
   2. Brothers, masculine plural 
   3. It is nominative singular becasue it is referecing the subject. 
 2.Dexamenus, who was afriad of Eurytion, promised Deanira in marriage to him. ❌
