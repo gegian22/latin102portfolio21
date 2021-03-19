@@ -58,7 +58,7 @@ tollo, tollere, sustuli, sublatus. Sublatam is female, perfect, passive, singula
 
 5. Identify the form of moriens.
 
-Accusative singular neuter present
+Accusative singular neuter present, passive. 
 
 6. Identify felle. Why does Hyginus use this case?
 
@@ -69,8 +69,11 @@ It is dative and Hyginus uses this case because it is indicating the direct obje
 Accusative, plural, perfect, feminine, passive 
 
 8. Identify the form of exceptum.
+
 accusative, singular, neuter, perfect, passive. 
 
 9. William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin.
+Moriens 
+
 
 
