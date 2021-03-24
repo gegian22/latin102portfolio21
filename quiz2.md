@@ -25,6 +25,7 @@
  2. Nessus, masculine singular 
  3. It is ablative masculine singluar because it's expressing the means by which the action came about. 
 
+
 6. In Egypt, Hercules Killed the priest Busiris, who reguarly sacrificed foreigners.  
  1. Cui 
  2. Busiris, masculine singular 
