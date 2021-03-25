@@ -1,10 +1,10 @@
 **Needs revisions**
 Verb Synopses: 
 
-third plural present indicative active:
-third plural present subjunctive active:
-third plural imperfect indicative active:
-present infinitive active:
+third plural present indicative active: incipiunt
+third plural present subjunctive active: incipiant
+third plural imperfect indicative active: incipiebant
+present infinitive active: incipere
 third plural imperfect subjunctive active:
 third plural perfect indicative active:
 perfect infinitive passive:
@@ -19,6 +19,8 @@ sum, esse, fui
 necatus/a/um esse 
 necatos esse 
 necatum esse 
+
+Pollicer 
 
 third plural present indicative passive: pollicentur
 third plural present subjunctive passive: polliceantur 
