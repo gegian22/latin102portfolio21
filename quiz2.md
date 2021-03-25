@@ -20,20 +20,14 @@ necatus/a/um esse
 necatos esse 
 necatum esse 
 
-third plural present indicative passive:
-third plural present subjunctive passive:
-third plural imperfect indicative passive:
-present infinitive passive:
-third plural imperfect subjunctive passive:
-third plural perfect indicative passive:
-perfect active passive:
+third plural present indicative passive: pollicentur
+third plural present subjunctive passive: polliceantur 
+third plural imperfect indicative passive: pollicebantur 
+present infinitive passive: polliceri 
+third plural imperfect subjunctive passive: pollicerentur 
+third plural perfect indicative passive: pollicti sunt
+perfect active passive:pollictus/a/um esse. 
 third plural pluperfect subjunctive passive: polliciti essent 
-
-Pollicer:
-polliticus 
-pollicitus/a/um esse 
-pluperfect subjunctive: active: neco 
-perfect active infinitive: necavisse 
 
 English Relative Clauses: 
  1. The brothers, whom Eurytion came to the wedding with, were violent Centaurs. 
