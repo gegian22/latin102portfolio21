@@ -1,6 +1,15 @@
 **Needs revisions**
 Verb Synopses: 
 
+third plural present indicative active
+third plural present subjunctive active
+third plural imperfect indicative active
+present infinitive active
+third plural imperfect subjunctive active
+third plural perfect indicative active
+perfect infinitive passive
+third plural pluperfect subjunctive active
+
 neco, necare, necavi, necatus 
 necatus, necata, necatum 
 necatus est
@@ -10,6 +19,15 @@ sum, esse, fui
 necatus/a/um esse 
 necatos esse 
 necatum esse 
+
+third plural present indicative passive
+third plural present subjunctive passive
+third plural imperfect indicative passive
+present infinitive passive
+third plural imperfect subjunctive passive
+third plural perfect indicative passive
+perfect active passive
+third plural pluperfect subjunctive passive
 
 Pollicer:
 polliticus 
