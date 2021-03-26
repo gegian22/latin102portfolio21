@@ -1,28 +1,21 @@
-**Needs revisions**
+
 Verb Synopses: 
+
+incipio, incipere, incepi, inceptus 
 
 third plural present indicative active: incipiunt
 third plural present subjunctive active: incipiant
 third plural imperfect indicative active: incipiebant
 present infinitive active: incipere
-third plural imperfect subjunctive active:
-third plural perfect indicative active:
-perfect infinitive passive:
-third plural pluperfect subjunctive active:
+third plural imperfect subjunctive active: inceperint 
+third plural perfect indicative active: inceperunt 
+perfect infinitive passive: inceptus esse 
+third plural pluperfect subjunctive active: incepissent
 
-neco, necare, necavi, necatus 
-necatus, necata, necatum 
-necatus est
-necata est
-necati sunt
-sum, esse, fui 
-necatus/a/um esse 
-necatos esse 
-necatum esse 
 
 Pollicer 
 
-third plural present indicative passive: pollicentur
+third plural present indicative passive: pollicentur: they are promising.   
 third plural present subjunctive passive: polliceantur 
 third plural imperfect indicative passive: pollicebantur 
 present infinitive passive: polliceri 
@@ -35,38 +28,38 @@ English Relative Clauses:
  1. The brothers, whom Eurytion came to the wedding with, were violent Centaurs. 
   a. cum quibus 
   b. Brothers, masculine plural 
-  c. It is ablative becasue it is referecing the subject. 
+  c. It is ablative because the preposition cum always takes the ablative. 
   
 2.Dexamenus, who was afriad of Eurytion, promised Deanira in marriage to him. 
  a. cui
- b. Dexamenus, masculine singular 
+ b. Eurytion, masculine singular 
  c. Dative singular becasuse it is referencing the indirect object of the sentence
   
 3.Eurytion, whose brothers were centaurs, was expected to marry Deianira. 
  a.cuius
  b.Eurytion, masculine singular 
- c.genitive singular because it is referncing the indirect object 
+ c.Genitive singular because he is the brother of the centaurs. 
  
 4. Nessus, who Hercules killed, tried to rape Deianira. 
  a. quem
  b. Nessus, masculine singular
- c. It is the accusative singular because it is expressing something about the subject. 
+ c. It is the accusative singular because it is expressing the direct object. 
  
 5. Nessus gave Deianira a vial of blood by which Hercules was poisioned. 
  a. quo
- b. Nessus, masculine singular 
+ b. vial, masculine singular 
  c. It is ablative masculine singluar because it's expressing the means by which the action came about. 
 
 
 6. In Egypt, Hercules Killed the priest Busiris, who reguarly sacrificed foreigners.  
  a. qui
  b. Busiris, masculine singular 
- c. It is the nominative singualar because it describes busiris. 
+ c. It is the nominative singualar because it describes Busiris. 
  
  
 7. Prometheus' heart was devoured by an eagle, which Hercules shot dead with his arrows. 
  a. quem
- b. Eagle, feminine accusative singular 
+ b. Eagle, feminine singular 
  c. It is the accusative singular because it is expressing the action Hercules took on the eagle. 
 
 
@@ -78,13 +71,13 @@ English Relative Clauses:
 
 9. Hercules, who Apollo refused to give an oracle to, stole a tripod from the temple at Delphi.  
 a. cui 
-b. Apollo, Masculine singular 
+b. Hercules, Masculine singular 
 c. Dative singular because it is expressing the indirect object of the sentence. 
 
 
 10. Hercules, whom Juno drove into a fit of madness, killed his own wife Megara. 
-a. cui
+a. quem
 b. Hercules, masculine singular 
-c. Accusative because it is expressing the direct object of a transative action 
+c. Accusative because it is expressing the direct object of a transative action.
 
 
