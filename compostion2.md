@@ -18,3 +18,11 @@ privo, privare, privavi, privatus “deprive someone (acc.) of something (abl.)�
 induo, induĕre, indui, indutum “put on an article of dress or ornament”
 statim (adv.) “immediately”
 flammo, flammare, flammavi, flammatus “flame, burn”
+
+Deianira, the wife of hercules, was not able to cross the great river which was called avenuis, and she asked for help from the Centaur nessus who was the son of Nubis. 
+He wanted to rape Deianira when she had been carried in the river. 
+Deianira was begging in tears for his help and protection 
+When he knew that the arrows possessed great power because they had been dipped in the gall of poision he gave Deinaira his own blood and said it was a love potion. 
+
+Quod Deinara, Herclues uxorem et filia Deneus, vidit adducere Iole in domum ea, machintus ut non amittent virum.  
+
