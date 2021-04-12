@@ -9,9 +9,13 @@ Your fifth statement should say that when he had killed all of them, he sent Iol
 
 
 
-Quid❌ Herculem veniit Oechalia, conjungo ❌ Iole petere ominis pater. 
-Quia Eurytus Nollet, captus est Oechalia Herculem.❌ 
-Didicit Herculem occidere patrem.❌ 
-Iole occiditur parentis pati.❌ 
-Quid Herculem occiditur familias,❌ quod Iore ut missus sit Deinaria. ❌ 
+Cum Herculem venio *pluperfect subjunctive* Oechalia  *accusative* , in conjugium Iolen petivit. 
 
+Quia Eurytus Nolebat, capta est Oechalia ab Hercule.
+
+Dixit se patrem occisurum esse. 
+
+Iole occiditur parentis pati.❌ Iole patiebatur parentis *accusative pluaral subjunctive subject* occedere (passsive infinitive in the right tense).    
+
+Cum Herculem occis familias,❌ quod Iore ut missus sit Deinaria. ❌ (temporal clause) 
+He sent Iole to Deinaria. 
