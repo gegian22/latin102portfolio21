@@ -1,48 +1,69 @@
+**Needs revisions**
 
 A. Grammatical Analysis: 
 
-(Deianira, the wife of hercules, was not able to cross the great river which was called avenuis, and she asked for help from the Centaur nessus who was the son of Nubis) 
+(Deianira, the wife of hercules, was not able to cross the great river which was called Evenus, and she asked for help from the Centaur nessus who was the son of Nubis) 
 (He wanted to rape Deianira when she had been carried in the river) 
+❌ **Missing a clause here?**
 (Deianira was begging in tears for his help and protection 
 (When he knew that the arrows possessed great power because they had been dipped in the gall of poision he gave Deinaira his own blood and said it was a love potion) 
 
 Deianira, uxor Herculis, flumen magnum, 
+
   >cui nomen Evenus *erat*, 
+
 non *poterat* transire, 
 
 *et* centaurum Nessum, 
+
   >qui filius Ixionis et Nubis erat, 
+
 auxilium *rogavit*. 
 
 
-*Hic* Deianiram 
+*Hic*❌ Deianiram 
+
   >*sublatam* in flumine ipso 
+
 *uiolare uoluit*.
 
 huc Hercules 
+
   >*cum interuenisset*  
+
   >et Deianira *cum* fidem eius *implorasset*,
+
 Nessum sagittis *confixit*.
 
 ille 
+
   >moriens, 
+
   >*cum sciret* 
+
   >>*sagittas* 
+
   >>>Hydrae Lernaeae felle tinctas
+
   >> magnam vim *habere*,
+
 sanguinem suum 
+
   >*exceptum* 
+
 Deianirae *dedit* 
 
-*et* 
+*et* ❌
+
   >id philtrum esse 
+
 *dixit*.
 
 
 B. Grammatical Questions 
 1. Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
 
-The antecedent of cui is fluemen magnum and it is the dative singular because it is showing the relationsip of the indirect object and the verb. 
+The antecedent of cui is fluemen magnum and it is the dative singular because it is showing the relationsip of the indirect object❌ and the verb. 
 
 2.Identify the form of transire. Explain why you placed it in the clause you chose.
 
@@ -54,15 +75,15 @@ tollo, tollere, sustuli, sublatus. Sublatam is female, perfect, passive, singula
 
 4. Identify the form of sagittis. Why does Hyginus use this case?
 
- Ablative because it could be dative or ablative. But since hercules pierced it is ablative. 
+ Ablative because it could be dative or ablative. But since hercules pierced it is ablative. ❓ **I don't understand this**
 
 5. Identify the form of moriens.
 
-Accusative singular neuter present, passive. 
+Accusative singular neuter present, passive. ❌
 
 6. Identify felle. Why does Hyginus use this case?
 
-It is dative and Hyginus uses this case because it is indicating the direct object. 
+It is dative❌ and Hyginus uses this case because it is indicating the direct object. 
 
 7. Identify the form of tinctas.
 
