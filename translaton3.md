@@ -23,6 +23,7 @@ Hyginus, chapter 30, sections 7-9.
 
 9 Diomedem Thraciae regem et equos quattuor eius, qui carne humana *vescebantur* (imperfect indicative (eat)), cum Abdero famulo interfecit; equorum autem nomina Podargus Lampon Xanthus Dinus.
 
+
 A. Grammatical analysis
 Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks.
 
