@@ -4,8 +4,7 @@ A. Grammatical Analysis:
 
 (Deianira, the wife of hercules, was not able to cross the great river which was called Evenus, and she asked for help from the Centaur nessus who was the son of Nubis) 
 (He wanted to rape Deianira when she had been carried in the river) 
-❌ **Missing a clause here?**
-(Deianira was begging in tears for his help and protection 
+(Hercules arrived and Deianira was begging in tears for his help and protection 
 (When he knew that the arrows possessed great power because they had been dipped in the gall of poision he gave Deinaira his own blood and said it was a love potion) 
 
 Deianira, uxor Herculis, flumen magnum, 
@@ -21,7 +20,7 @@ non *poterat* transire,
 auxilium *rogavit*. 
 
 
-*Hic*❌ Deianiram 
+Hic Deianiram 
 
   >*sublatam* in flumine ipso 
 
@@ -53,7 +52,7 @@ sanguinem suum
 
 Deianirae *dedit* 
 
-*et* ❌
+et
 
   >id philtrum esse 
 
@@ -63,7 +62,7 @@ Deianirae *dedit*
 B. Grammatical Questions 
 1. Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
 
-The antecedent of cui is fluemen magnum and it is the dative singular because it is showing the relationsip of the indirect object❌ and the verb. 
+The antecedent of cui is fluemen magnum and it is the dative singular because it is indicating the recipient of the action. 
 
 2.Identify the form of transire. Explain why you placed it in the clause you chose.
 
@@ -75,15 +74,15 @@ tollo, tollere, sustuli, sublatus. Sublatam is female, perfect, passive, singula
 
 4. Identify the form of sagittis. Why does Hyginus use this case?
 
- Ablative because it could be dative or ablative. But since hercules pierced it is ablative. ❓ **I don't understand this**
+ It is ablative, plural, feminine 
 
 5. Identify the form of moriens.
 
-Accusative singular neuter present, passive. ❌
+Accusative, singular, neuter 
 
 6. Identify felle. Why does Hyginus use this case?
 
-It is dative❌ and Hyginus uses this case because it is indicating the direct object. 
+It is ablative and Hyginus uses this case because it is expressing the recipient of the action. 
 
 7. Identify the form of tinctas.
 
