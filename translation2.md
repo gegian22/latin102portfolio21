@@ -78,7 +78,7 @@ tollo, tollere, sustuli, sublatus. Sublatam is female, perfect, passive, singula
 
 5. Identify the form of moriens.
 
-Accusative, singular, neuter 
+Present, active, masculine, nominative, singular. 
 
 6. Identify felle. Why does Hyginus use this case?
 
