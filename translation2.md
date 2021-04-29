@@ -74,7 +74,7 @@ tollo, tollere, sustuli, sublatus. Sublatam is female, perfect, passive, singula
 
 4. Identify the form of sagittis. Why does Hyginus use this case?
 
- It is ablative, plural, feminine 
+ It is ablative, plural, feminine and it is ablative because it is expressing the means by which he was pierced. 
 
 5. Identify the form of moriens.
 
