@@ -82,7 +82,7 @@ Present, active, masculine, nominative, singular.
 
 6. Identify felle. Why does Hyginus use this case?
 
-It is ablative and Hyginus uses this case because it is expressing the recipient of the action. 
+It is ablative and Hyginus uses this case because it is expressing the means of the action. 
 
 7. Identify the form of tinctas.
 
