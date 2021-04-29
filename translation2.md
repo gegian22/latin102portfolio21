@@ -62,7 +62,7 @@ et
 B. Grammatical Questions 
 1. Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
 
-The antecedent of cui is fluemen magnum and it is the dative singular because it is indicating the recipient of the action. 
+The antecedent of cui is fluemen magnum and it is the dative singular because it is representing possession. 
 
 2.Identify the form of transire. Explain why you placed it in the clause you chose.
 
