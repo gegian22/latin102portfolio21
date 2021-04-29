@@ -26,7 +26,7 @@ Place each verbal idea (clause, indirect statement, participial expression) on a
 
 taurum cum quo Pasiphae *concubuit* ex Creta insula Mycenis vivum *adduxit*.
 
-Diomedem Thraciae regem et equos quattuor eius, qui carne humana vescebantur, cum Abdero famulo *interfecit*; equorum autem nomina Podargus Lampon Xanthus Dinus.
+Diomedem Thraciae regem et equos quattuor eius, qui carne humana vescebantur, cum Abdero famulo *interfecit*; equorum autem *nomina* Podargus Lampon Xanthus Dinus.
 
 
 B. Grammatical questions
@@ -37,13 +37,16 @@ Iove is the abaltive. It is an accusative/ablative construction
 Stercus is the nominative becuase Stercus is the subject of the sentence. 
 
 3. Identify the form of the adjective maiorem (gender, case, number, degree).
-Gender??, accusative, 1, 1. 
+ Masculine, accusative, 1, 1. 
 
 4. Explain the construction of the verbal unit flumine admisso.
+It is a participle 
 
 5. What are the gender, number, case, and antecedent of qui?
+Masculine, nominative, singular, and the antecdent is equos quattor eius. 
 
 6. What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
+Nomina could be used as a noun but it could also be a verb in the imperfect. Since it is refering to waht the horses were named, it is in the imperfect. 
 
 C. Literary commentary
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
