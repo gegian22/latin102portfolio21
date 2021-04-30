@@ -24,9 +24,13 @@ Place each verbal idea (clause, indirect statement, participial expression) on a
 >Augeae regis stercus bobile uno die *purgavit*, maiorem partem Iove adiutore;
 >>flumine admisso totum stercus *abluit*.
 
-taurum cum quo Pasiphae *concubuit* ex Creta insula Mycenis vivum *adduxit*.
+>taurum cum quo Pasiphae *concubuit* 
+>>ex Creta insula Mycenis vivum *adduxit*.
 
-Diomedem Thraciae regem et equos quattuor eius, qui carne humana vescebantur, cum Abdero famulo *interfecit*; equorum autem *nomina* Podargus Lampon Xanthus Dinus.
+>Diomedem Thraciae regem et equos quattuor eius 
+>>qui carne humana vescebantur
+>cum Abdero famulo *interfecit*; 
+>equorum autem *nomina* Podargus Lampon Xanthus Dinus.
 
 
 B. Grammatical questions
@@ -34,7 +38,7 @@ B. Grammatical questions
 Iove is the abaltive. It is an accusative/ablative construction 
 
 2. What case is stercus, and why is it in that case?
-Stercus is the nominative becuase Stercus is the subject of the sentence. 
+Stercus is the nominative becuase Stercus is the filth subject of the sentence. 
 
 3. Identify the form of the adjective maiorem (gender, case, number, degree).
  Masculine, accusative, 1, 1. 
@@ -50,4 +54,8 @@ Nomina could be used as a noun but it could also be a verb in the imperfect. Sin
 
 C. Literary commentary
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
+
+The participle *flumine admisso* works as an adverb that is describing the way the river moves. The reason it adds to passage's content because this participle says that the river is purifying the offenses. These offenses can't literally be washed away by the river but metaphorically speaking, the river can be something that symbolizes washing away of any impurities. For example, in Christianity, water represents cleansing away of original sin. 
+
+
 
