@@ -9,6 +9,7 @@ Iuppiter, Iovis (m), Jupiter
 purgo, purgare, purgavi, purgatus, “to clean (something, from something else)” Note that purgo can take two accusative direct objects.
 quattuor (indeclinable adj.), “four”
 stercus, stercoris (n), “dung, manure”
+
 Passage to analyze
 Hyginus, chapter 30, sections 7-9.
 
@@ -17,6 +18,11 @@ Augeae regis stercus bobile uno die purgavit, maiorem partem Iove adiutore; flum
 taurum cum quo Pasiphae concubuit ex Creta insula Mycenis vivum adduxit.
 
 Diomedem Thraciae regem et equos quattuor eius, qui carne humana vescebantur, cum Abdero famulo interfecit; equorum autem nomina Podargus Lampon Xanthus Dinus.
+
+Translation: 
+One day, Hercules cleaned up King Augea's stall of manure,for the greater part with Jupiter as his partner; the river whashed away all the manure. 
+Hercules sailed for the Island of Crete to Mycenae and went with the living bull with whom Pasphae had laid. 
+Hercules killed Diomedes, the King of Thrace, along with his four horses who consumed human flesh. The Horses names were Podargus, Lampon, Xanthus, Dinus. 
 
 A. Grammatical analysis
 Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks.
