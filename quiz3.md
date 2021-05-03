@@ -39,6 +39,7 @@ compose a dictionary form for the proper adjectives in the following phrases:
 5. Hippolyten Amazonam; Amazonus, Amazona, Amazonum 
 
 Comparative and superlative forms: 
+
 1.The Hydra killed passers by with a great blowing of his poisonous breath: Magno afflatu 
 
 2.The Hydra killed passers by with a greater blowing of his poisonous breath. Maiore afflatu
