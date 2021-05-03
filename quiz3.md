@@ -10,17 +10,17 @@ Dictionary skills, 1: noun-adjective pairs
 9. mala aurea: mala, malae (f); aureus, aurea, aureum 
 
 Dictionary skills, 2: verb forms 
-1. transierat; transeo, transire, transivi, transitus 
-2. afflabat; afflo, afflare, afflavi, afflatus 
-3. moriebatur; morior, mori, -, mortuus sum
-4. exinteravit; exitero, exiterare, exiteravi, exiteratus 
-5. effugiebat; effugio, effugere, effugi, effugitus 
-6. adduxit; adduco, adducere, adduxi, adductus 
-7. iaculabantur; jaculor, jaculari, -, jaculatus sum 
-8. vescebantur; vescor, vesci, -, -
-9. detraxit; detraho, detrahere, detraxi, detractus 
-10. solitus erat; solvo, solvere, solvi, solutus; sum, esse, fui, futurus
-11. attulit; affero, afferre, attuli, allatus 
+1. transierat: transeo, transire, transivi, transitum (transitus)  
+2. afflabat: afflo, afflare, afflavi, afflatum 
+3. moriebatur: morior, mori, mortuus, morium
+4. exinteravit: exitero, exiterare, exiteravi, exiteratus 
+5. effugiebat: effugio, effugere, effugi, effugitus 
+6. adduxit: adduco, adducere, adduxi, adductus 
+7. iaculabantur: jaculor, jaculari, -, jaculatus sum 
+8. vescebantur: vescor, vesci, -, -
+9. detraxit: detraho, detrahere, detraxi, detractus 
+10. solitus erat: solvo, solvere, solvi, solutus; sum, esse, fui, futurus
+11. attulit: affero, afferre, attuli, allatus 
 
 Dictionary skills, 3: proper nouns and adjectives 
 1. Luna: Luna, Lunae (f) 
@@ -33,8 +33,8 @@ Dictionary skills, 3: proper nouns and adjectives
 
 compose a dictionary form for the proper adjectives in the following phrases: 
 1. Leonem Nemeum; leo, leonis (m); Nemeus, Nemea, Nemeum  
-2. Hydram Lernaeam; hydra, hydrae (f); Lernaeaus 
-3. aprum Erymanthium; aper, apri (n); Erymanthus 
+2. Hydram Lernaeam; hydra, hydrae (f); Learneus, Lernea, Lerneum 
+3. aprum Erymanthium; aper, apri (n); Eurmanthius, Eurmanthia, Eurmanthium.
 4. aves Stymphalides; avis, avis (n,f); Stymphalis, Stymphalidis
 5. Hippolyten Amazonam; Amazonus, Amazona, Amazonum 
 
