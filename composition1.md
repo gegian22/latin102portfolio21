@@ -15,7 +15,7 @@ Quia Eurytus Nolebat, capta est Oechalia ab Hercule.
 
 Dixit se patrem occisurum esse. 
 
-Iole occiditur parentis pati.❌ Iole patiebatur parentis *accusative pluaral subjunctive subject* occedere (passsive infinitive in the right tense).    
+Iole patiebatur parentis occidere.   
 
 Cum Herculem occis familias,❌ quod Iore ut missus sit Deinaria. ❌ (temporal clause) 
 He sent Iole to Deinaria. 
