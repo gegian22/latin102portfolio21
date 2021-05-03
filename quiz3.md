@@ -1,12 +1,12 @@
 Dictionary skills, 1: noun-adjective pairs 
 1. uno die; unus, una, unum; dies, diei (n) (check)  
-2. totum stercus; totus, tota, totum; stercus, stercorsis (m)  (check) 
+2. totum stercus; totus, tota, totum; stercus, stercoris (m) 
 3. cervum ferocem; cervus, cervi (m); ferox, ferocis (f) 
 4. tantam vim; tantus, tanta, tantum (f); vīs, vis (f)
-5. sagittaas suas: sagitta, sagittae (f); suus, sua, suum (check) 
+5. sagittaas suas: sagitta, sagittae (f); suus, sua, sum 
 6. cornibus aureis: cornu, cornus (f); aureus, aurea, aureum (check)  
 7. carne humana: humanus, humana, humanum; caro, carnis (f)  
-8. draconem immanem: draco, draconis (m) immanis, immane, immanior -or -us (check) 
+8. draconem immanem: draco, draconis (m); immanis, immanes (check) 
 9. mala aurea: mala, malae (f); aureus, aurea, aureum 
 
 Dictionary skills, 2: verb forms 
@@ -27,9 +27,9 @@ Dictionary skills, 3: proper nouns and adjectives
 2. Minerva: Minerva, Minervae (f)
 3. in Phrygia: Phrygia, Phrygiae (f) 
 4. ex creta: Creta, Cretae (f) 
-5. thraciae rex; Thracia, Thraciae (n); rex, regis (m)
+5. thraciae rex; Thracia, Thraciae (f)
 6. cum abdero; Abderus, Abderi (m) 
-7. eurystheo regi; Eurystheo, Eursthei; rex, regis N F 
+7. eurystheo regi; Eurystheus, Eursthei (m)
 
 compose a dictionary form for the proper adjectives in the following phrases: 
 1. Leonem Nemeum; leo, leonis (m); Nemeus, Nemea, Nemeum  
