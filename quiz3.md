@@ -1,12 +1,12 @@
 Dictionary skills, 1: noun-adjective pairs 
-1. uno die; uno dies, uno Diei, masculine 
-2. totum stercus; totum stercus, totum stercorsis, masculine 
+1. uno die; unus, una, unum; dies, diei (n) (check)  
+2. totum stercus; totus, tota, totum; stercus, stercorsis (m)  (check) 
 3. cervum ferocem; cervus, cervi (m); ferox, ferocis (f) 
 4. tantam vim; tantus, tanta, tantum (f); vīs, vis (f)
-5. sagittaas suas: sagittae suas, sagittarum suas, feminine 
-6. cornibus aureis: cornibus aurei, cornibus aureorum, masculine 
+5. sagittaas suas: sagitta, sagittae (f); suus, sua, suum (check) 
+6. cornibus aureis: cornu, cornus (f); aureus, aurea, aureum (check)  
 7. carne humana: humanus, humana, humanum; caro, carnis (f)  
-8. draconem immanem: draco, draconis (m) immanis, immane, immanior -or -us
+8. draconem immanem: draco, draconis (m) immanis, immane, immanior -or -us (check) 
 9. mala aurea: mala, malae (f); aureus, aurea, aureum 
 
 Dictionary skills, 2: verb forms 
@@ -23,18 +23,18 @@ Dictionary skills, 2: verb forms
 11. attulit; affero, afferre, attuli, allatus 
 
 Dictionary skills, 3: proper nouns and adjectives 
-1. Luna (nominative); Luno, Lunae N F
-2. Minerva (nominative; Minerva, Minervae N F
-3. in Phrygia; Phrygia, Phrygiae (f) 
-4. ex creta; Creta, Cretae (f) 
-5. thraciae rex; Thracia, Thraciae (n); rex, regis N M
+1. Luna: Luna, Lunae (f) 
+2. Minerva: Minerva, Minervae (f)
+3. in Phrygia: Phrygia, Phrygiae (f) 
+4. ex creta: Creta, Cretae (f) 
+5. thraciae rex; Thracia, Thraciae (n); rex, regis (m)
 6. cum abdero; Abderus, Abderi (m) 
 7. eurystheo regi; Eurystheo, Eursthei; rex, regis N F 
 
 compose a dictionary form for the proper adjectives in the following phrases: 
 1. Leonem Nemeum; leo, leonis (m); Nemeus, Nemea, Nemeum  
-2. Hydram Lernaeam; hydra, hydrae, N F; Lernaeaus 
-3. aprum Erymanthium; aper, apri, N C; Erymanthus 
+2. Hydram Lernaeam; hydra, hydrae (f); Lernaeaus 
+3. aprum Erymanthium; aper, apri (n); Erymanthus 
 4. aves Stymphalides; avis, avis (n,f); Stymphalis, Stymphalidis
 5. Hippolyten Amazonam; Amazonus, Amazona, Amazonum 
 
