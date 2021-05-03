@@ -40,11 +40,19 @@ compose a dictionary form for the proper adjectives in the following phrases:
 
 Comparative and superlative forms: 
 1.The Hydra killed passers by with a great blowing of his poisonous breath: Magno afflatu 
+
 2.The Hydra killed passers by with a greater blowing of his poisonous breath. Maiore afflatu
+
 3. The Hydra killed passers by with the greatest blowing of his poisonous breath. Maximo afflatu 
+
 4.The victims died in great torment: Magno Cruciatu 
+
 5.The victims died in greater torment: Maiore Cruciatu 
-6. The victims died in the greatest torment: Maximo Cruciatu
-7. Hercules cleaned a great part of the stables: Magnam partem 
+
+6.The victims died in the greatest torment: Maximo Cruciatu
+
+7.Hercules cleaned a great part of the stables: Magnam partem 
+
 8.Hercules cleaned a greater part of the stables: Maiorem partem 
-9. Hercules cleaned the greatest part of the stables: Maximam partem 
+
+9.Hercules cleaned the greatest part of the stables: Maximam partem 
