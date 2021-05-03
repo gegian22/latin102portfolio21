@@ -35,22 +35,22 @@ Place each verbal idea (clause, indirect statement, participial expression) on a
 
 B. Grammatical questions
 1. In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase
-Iove is the abaltive. It is an accusative/ablative construction 
+Iove is the abaltive because it explaining the means of doing something. 
 
 2. What case is stercus, and why is it in that case?
 Stercus is the nominative becuase Stercus is the filth subject of the sentence. 
 
 3. Identify the form of the adjective maiorem (gender, case, number, degree).
- Masculine, accusative, 1, 1. 
+ Masculine, accusative, singular, 1. 
 
 4. Explain the construction of the verbal unit flumine admisso.
 It is a participle 
 
 5. What are the gender, number, case, and antecedent of qui?
-Masculine, nominative, singular, and the antecdent is equos quattor eius. 
+Masculine, nominative, pluarl, and the antecdent are the four hourses. 
 
 6. What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
-Nomina could be used as a noun but it could also be a verb in the imperfect. Since it is refering to waht the horses were named, it is in the imperfect. 
+Nomina could be used as a noun but it could also be a verb in the imperfect. Since it is refering to what the horses were named, it is in the imperfect. 
 
 C. Literary commentary
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
