@@ -9,7 +9,7 @@ Your fifth statement should say that when he had killed all of them, he sent Iol
 
 
 
-Cum Herculem venio *pluperfect subjunctive* Oechalia  *accusative* , in conjugium Iolen petivit. 
+Cum Herculem venisset Oechaliam, in conjugium Iolen petivit. 
 
 Quia Eurytus Nolebat, capta est Oechalia ab Hercule.
 
@@ -17,5 +17,5 @@ Dixit se patrem occisurum esse.
 
 Iole patiebatur parentis occidere.   
 
-Cum Herculem occis familias,❌ quod Iore ut missus sit Deinaria. ❌ (temporal clause) 
-He sent Iole to Deinaria. 
+Cum Herculem occisus erat familias, misit ad Iolen Deinaria. 
+
