@@ -20,9 +20,10 @@ taurum cum quo Pasiphae concubuit ex Creta insula Mycenis vivum adduxit.
 Diomedem Thraciae regem et equos quattuor eius, qui carne humana vescebantur, cum Abdero famulo interfecit; equorum autem nomina Podargus Lampon Xanthus Dinus.
 
 Translation: 
-One day, Hercules cleaned up King Augea's stall of manure,for the greater part with Jupiter as his partner; the river whashed away all the manure. 
-Hercules sailed for the Island of Crete to Mycenae and went with the living bull with whom Pasphae had laid. 
-Hercules killed Diomedes, the King of Thrace, along with his four horses who consumed human flesh. The Horses names were Podargus, Lampon, Xanthus, Dinus. 
+In one day Hercules cleaned up the Manure of King Augea's stall the greater part with Jupiter as his partner; when the river had been let in he cleaned away all the dung. 
+Hercules sailed from the island of Crete to Mycenae, he led the bull alive with whom Pasphae had slept with.
+He killed Diomedes, the King of Thrace, and his four horses who used to eat human flesh along with abderus, his slave. The names of the horses were Podargus, Lampon, Xanthus, and Dinus. 
+
 
 A. Grammatical analysis
 Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks.
