@@ -27,19 +27,25 @@ Hercules killed Diomedes, the King of Thrace, along with his four horses who con
 A. Grammatical analysis
 Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks.
 
->Augeae regis stercus bobile uno die *purgavit*, maiorem partem Iove adiutore;
->>flumine admisso totum stercus *abluit*.
+>Augeae regis stercus bobile uno die *purgavit*, 
+>maiorem partem 
+>>Iove adiutore;
+>>flumine admisso 
+>totum stercus *abluit*.
 
-taurum cum quo Pasiphae *concubuit* 
+>taurum 
+>>cum quo Pasiphae *concubuit* 
 >ex Creta insula Mycenis vivum *adduxit*.
 
->Diomedem Thraciae regem et equos quattuor eius, qui carne humana vescebantur, cum Abdero famulo *interfecit*; 
->>equorum autem *nomina* Podargus Lampon Xanthus Dinus.
+>Diomedem Thraciae regem et equos quattuor eius, 
+>>qui carne humana *vescebantur*,
+>cum Abdero famulo *interfecit*;
+>equorum autem *nomina* Podargus Lampon Xanthus Dinus.
 
 
 B. Grammatical questions
 1. In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase
-Iove is the abaltive because it explaining the means of doing something. 
+Iove is the abaltive and it is an ablative absolute construction.  
 
 2. What case is stercus, and why is it in that case?
 Stercus is the nominative becuase Stercus is the filth subject of the sentence. 
@@ -48,10 +54,10 @@ Stercus is the nominative becuase Stercus is the filth subject of the sentence.
  Masculine, accusative, singular, 1. 
 
 4. Explain the construction of the verbal unit flumine admisso.
-It is a participle 
+It is a participle and it is in the ablative because it is introducing a verbal idea. This is called the ablative absolute.  
 
 5. What are the gender, number, case, and antecedent of qui?
-Masculine, nominative, pluarl, and the antecdent are the four hourses. 
+Masculine, nominative, pluarl, and the antecedent are the four hourses. 
 
 6. What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
 Nomina could be used as a noun but it could also be a verb in the imperfect. Since it is refering to what the horses were named, it is in the imperfect. 
@@ -60,6 +66,7 @@ C. Literary commentary
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
 
 The participle *flumine admisso* works as an adverb that is describing the way the river moves. The reason it adds to passage's content because this participle says that the river is purifying the offenses. These offenses can't literally be washed away by the river but metaphorically speaking, the river can be something that symbolizes washing away of any impurities. For example, in Christianity, water represents cleansing away of original sin. 
+The prepositional phrase, *cum abdero famulo* helps distinguish the use of cum in the reading. This changes the meaning of the clause. 
 
 
 
