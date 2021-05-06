@@ -1,3 +1,5 @@
+**Full credit**
+
 Dictionary skills, 1: noun-adjective pairs 
 1. uno die; unus, una, unum; dies, diei (n) (check)  
 2. totum stercus; totus, tota, totum; stercus, stercoris (m) 
