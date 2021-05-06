@@ -20,8 +20,12 @@ statim (adv.) “immediately”
 flammo, flammare, flammavi, flammatus “flame, burn”
 
 Quod Deinara, Herclues uxorem et filia Deneus, vidit adducere Iole in domum ea, machintus ut non amittent virum.  
+
 Deinara miserunt ferre famulam ad Herculem vestem inducebat de sanguine Centaurti, quod putavit potionatus erat. 
+
 Quod Herculem induendum vestimentum, statim falmmare. 
+
 Herculem famulam misit, quibus Deinara quos misisti ferre vestimentum, in mare. 
+
 Ut dixerunt Hercules resurrexit ad immortalitatis et Deianira occidit quia factum suum. 
 
