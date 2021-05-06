@@ -4,9 +4,9 @@ Dictionary skills, 1: noun-adjective pairs
 3. cervum ferocem; cervus, cervi (m); ferox, ferocis (f) 
 4. tantam vim; tantus, tanta, tantum (f); vīs, vis (f)
 5. sagittaas suas: sagitta, sagittae (f); suus, sua, sum 
-6. cornibus aureis: cornu, cornus (f); aureus, aurea, aureum (check)  
+6. cornibus aureis: cornu, cornus (f); aureus, aurea, aureum 
 7. carne humana: humanus, humana, humanum; caro, carnis (f)  
-8. draconem immanem: draco, draconis (m); immanis, immanes (check) 
+8. draconem immanem: draco, draconis (m); immanis, immane 
 9. mala aurea: mala, malae (f); aureus, aurea, aureum 
 
 Dictionary skills, 2: verb forms 
