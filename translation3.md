@@ -66,7 +66,7 @@ The verb missing would be erant.
 C. Literary commentary
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
 
-The participle *flumine admisso* because it is describing the way the river moves and it's significance in washing away the manure. It adds to the passage because of water's significance in purification/cleansing. For example, in Christianity, water represents cleansing away of original sin. Additionally, the clause ex creta insula Mycenis vivum adduxit the fact that the adjective is towards the end of the sentence so it reveals that the bull is alive. 
+The participle *flumine admisso* because it is describing the way the river moves and it's significance in washing away the manure. It adds to the passage because of water's significance in purification/cleansing. For example, in Christianity, water represents cleansing away of original sin. Additionally, in the clause ex creta insula Mycenis vivum adduxit, the adjective being towards the end of the sentence reveals that the bull is alive still which is important to the interpretation of the passage. 
 
 
 
