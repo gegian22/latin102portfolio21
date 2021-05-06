@@ -21,7 +21,7 @@ Diomedem Thraciae regem et equos quattuor eius, qui carne humana vescebantur, cu
 
 Translation: 
 In one day Hercules cleaned up the Manure of King Augea's stall the greater part with Jupiter as his partner; when the river had been let in he cleaned away all the dung. 
-Hercules sailed from the island of Crete to Mycenae, he led the bull alive with whom Pasphae had slept with.
+Hercules led the bull, with whom Pasphae had laid, alive from the island of Crete to Mycenae.
 He killed Diomedes, the King of Thrace, and his four horses who used to eat human flesh along with abderus, his slave. The names of the horses were Podargus, Lampon, Xanthus, and Dinus. 
 
 
@@ -49,19 +49,19 @@ B. Grammatical questions
 Iove is the abaltive and it is an ablative absolute construction.  
 
 2. What case is stercus, and why is it in that case?
-Stercus is the nominative becuase Stercus is the subject of the sentence. 
+Stercus is the accusative because the glossary notes that it can have two direct objects. 
 
 3. Identify the form of the adjective maiorem (gender, case, number, degree).
- Masculine, accusative, singular, 1. 
+ Feminine, accusative, singular, comparative degree. 
 
 4. Explain the construction of the verbal unit flumine admisso.
 It is a participle and it is in the ablative because it is introducing a verbal idea. This is called the ablative absolute.  
 
 5. What are the gender, number, case, and antecedent of qui?
-Masculine, nominative, pluarl, and the antecedent are the four hourses. 
+Masculine, nominative, plural, and the antecedent are the four hourses. 
 
 6. What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
-Nomina could be used as a noun but it could also be a verb in the imperfect. Since it is refering to what the horses were named, it is in the imperfect. 
+The verb missing would be erant. 
 
 C. Literary commentary
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
