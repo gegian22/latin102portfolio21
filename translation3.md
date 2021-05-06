@@ -45,7 +45,7 @@ Place each verbal idea (clause, indirect statement, participial expression) on a
 
 
 B. Grammatical questions
-1. In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase
+1. In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase?
 Iove is the abaltive and it is an ablative absolute construction.  
 
 2. What case is stercus, and why is it in that case?
