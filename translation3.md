@@ -49,7 +49,7 @@ B. Grammatical questions
 Iove is the abaltive and it is an ablative absolute construction.  
 
 2. What case is stercus, and why is it in that case?
-Stercus is the nominative becuase Stercus is the filth subject of the sentence. 
+Stercus is the nominative becuase Stercus is the subject of the sentence. 
 
 3. Identify the form of the adjective maiorem (gender, case, number, degree).
  Masculine, accusative, singular, 1. 
