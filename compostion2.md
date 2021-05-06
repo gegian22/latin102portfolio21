@@ -27,4 +27,5 @@ flammo, flammare, flammavi, flammatus “flame, burn”
 
 4.Herculem famulam misit, quibus Deinara quos misisti ferre vestimentum, in mare. 
 
-5.Dixerunt Hercules resurrexit ad immortalitatis et Deianira ipse interfecit. 
+5.Dicitur Herculem surrexisse ad immortalitem et Deianira ipsa se interfecit. 
+
