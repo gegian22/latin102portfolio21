@@ -19,13 +19,13 @@ induo, induĕre, indui, indutum “put on an article of dress or ornament”
 statim (adv.) “immediately”
 flammo, flammare, flammavi, flammatus “flame, burn”
 
-Quod Deinara, Herclues uxorem et filia Deneus, vidit adducere Iole in domum ea, machintus ut non amittent virum.  
+1.Cum Deinara, Herclues uxorem et filia Oeneus, vidit Iolen puellam adducere esse, coepit machinari ne ad privaretur conjuge.  
 
-Deinara miserunt ferre famulam ad Herculem vestem inducebat de sanguine Centaurti, quod putavit potionatus erat. 
+2.Deianira se interfecit famulum suum misit ad vestem dandum Herculi tinctum sanguine Nessi, quem putavit philtrum esse. 
 
-Quod Herculem induendum vestimentum, statim falmmare. 
+3.Quod Herculem induendum vestimentum, statim flammabat. 
 
-Herculem famulam misit, quibus Deinara quos misisti ferre vestimentum, in mare. 
+4.Herculem famulam misit, quibus Deinara quos misisti ferre vestimentum, in mare. 
 
-Ut dixerunt Hercules resurrexit ad immortalitatis et Deianira occidit quia factum suum. 
+5.Ut dixerunt Hercules resurrexit ad immortalitatis et Deianira occidit quia factum suum. 
 
