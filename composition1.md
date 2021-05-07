@@ -1,4 +1,4 @@
-**Needs revisions**
+**Needs minor revisions**
 
 Your composition should use all the vocabulary items listed below at least once.
 Your first sentence should use a temporal clause to express that when Hercules came to Oechalia, he asked to marry Iole.
@@ -15,7 +15,7 @@ Quia Eurytus Nolebat, capta est Oechalia ab Hercule.
 
 Dixit se patrem occisurum esse. 
 
-Iole patiebatur parentis occidere.   
+Iole patiebatur parentis occidere.❌   
 
-Cum Herculem occisus erat familias, misit ad Iolen Deinaria. 
+Cum Herculem occisus erat familias, misit ad Iolen Deinaria.❌ 
 
