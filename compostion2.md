@@ -21,7 +21,7 @@ induo, induĕre, indui, indutum “put on an article of dress or ornament”
 statim (adv.) “immediately”
 flammo, flammare, flammavi, flammatus “flame, burn”
 
-1.Cum Deianira, Herclues uxorem❌ et filia Oeneus, vidit Iolen puellam adducere❌ esse, coepit machinari ne ad❌ privaretur conjuge.  
+1.Cum Deianira, Herclues uxorem❌ (uxoris) et filia Oeneus, vidit Iolen puellam adducere❌ (adductam) esse, coepit machinari ne ad❌ (remove?) privaretur conjuge.  
 
 2.Deianira se interfecit❌ famulum suum misit ad vestem dandum Herculi tinctum sanguine Nessi, quem putavit philtrum esse. 
 
