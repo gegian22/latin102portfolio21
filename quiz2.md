@@ -1,5 +1,6 @@
 **Full credit**
 
+
 Verb Synopses: 
 
 incipio, incipere, incepi, inceptus 
