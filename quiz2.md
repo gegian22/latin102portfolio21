@@ -64,7 +64,7 @@ English Relative Clauses:
  c. It is the accusative singular because it is expressing the action Hercules took on the eagle. 
 
 
-8. Lycus, who was killed by Hercules, tried to kill Megara and her sons Therimachus and Ophites.  ❌
+8. Lycus, who was killed by Hercules, tried to kill Megara and her sons Therimachus and Ophites.  
  a. qui
  b. Lycus, masculine singular 
  c. Nominative singular because Lycus is the subject of the sentence 
