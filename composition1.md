@@ -17,7 +17,7 @@ Dixit se patrem occisurum esse.
 
 Iole patiebatur parentes suos occisos esse. 
 
-Cum Hercules occidit parentes, misit Iolen ad Deinaram.❌ 
+Cum Hercules occidit parentes, misit Iolen ad Deinaram. 
 
 
 
