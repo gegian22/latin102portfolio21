@@ -55,10 +55,6 @@ When Hercules was away, a centaur asked for his wife Deianira.
 
 Because the father was afraid of the Centuar, he promised to give the daughter in marriage to the Centuar.  
 
-At the specififed time, the centaur came to the wedding, was killed and Deinaniram was abducted. 
+<!-- At the specififed time, the centaur came to the wedding, was killed and Deinanira was abducted.  -->
 
-<<<<<<< HEAD
 Hercules interfered, and killed the centaur,  he carried off Deianira.
-=======
-
->>>>>>> 397df084b26d09cfd188b28948cae7fd0778816d
