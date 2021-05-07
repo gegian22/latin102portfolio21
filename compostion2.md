@@ -23,7 +23,7 @@ flammo, flammare, flammavi, flammatus “flame, burn”
 
 1.Cum Deianira, Herculis uxor et filia Oenei, vidit Iolen puellam adductam esse, coepit machinari ne privaretur conjuge.  
 
-2.Deianira famulum suum misit ad vestem dandum Herculi tinctum sanguine Nessi, quem putavit philtrum esse. 
+2.Deianira famulum suum misit ad vestem dandam Herculi tinctam sanguine Nessi, quem putavit philtrum esse. 
 
 3.Quod❌ (remove?) Herculem induendum vestimentum, statim flammabat. 
 
