@@ -31,3 +31,4 @@ flammo, flammare, flammavi, flammatus “flame, burn”
 
 5.Dicitur Herculem surrexisse ad immortalitem et Deianira ipsa se interfecit. 
 
+
