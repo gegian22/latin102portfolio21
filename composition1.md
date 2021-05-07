@@ -1,4 +1,4 @@
-**Needs minor revisions**
+**Full credit**
 
 Your composition should use all the vocabulary items listed below at least once.
 Your first sentence should use a temporal clause to express that when Hercules came to Oechalia, he asked to marry Iole.
