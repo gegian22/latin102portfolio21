@@ -1,3 +1,6 @@
+**Full credit**
+
+
 Note: the verb sum, esse, fui, futurus has no present participle! If you want to construct the equivalent of a normal verbal unit using a participle with a noun, you can simply omit the verb “to be” and include the predicate (just as you can with finite forms of sum: Herculis fortis could be a complete sentence). This is most easily recognizable when the noun is an ablative in ablative absolute construction.
 
 Vocabulary:
