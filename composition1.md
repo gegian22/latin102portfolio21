@@ -17,5 +17,5 @@ Dixit se patrem occisurum esse.
 
 Iole patiebatur parentis occidere.❌   
 
-Cum Herculem occisus erat familias, misit ad Iolen Deinaria.❌ 
+Cum Herculem occisus erat familias, misit ad Iolen Deinariae.❌ 
 
