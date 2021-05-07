@@ -25,9 +25,9 @@ flammo, flammare, flammavi, flammatus “flame, burn”
 
 2.Deianira se interfecit❌ famulum suum misit ad vestem dandum Herculi tinctum sanguine Nessi, quem putavit philtrum esse. 
 
-3.Quod❌ Herculem induendum vestimentum, statim flammabat. 
+3.Quod❌ (remove?) Herculem induendum vestimentum, statim flammabat. 
 
-4.Herculem famulam misit❌, quibus Deinara quos misisti ferre vestimentum, in mare. 
+4.Herculem famulam misit❌ (remove?), quibus Deinara quos misisti ferre vestimentum, in mare. 
 
 5.Dicitur Herculem surrexisse ad immortalitem et Deianira ipsa se interfecit. 
 
