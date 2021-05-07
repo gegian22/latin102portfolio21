@@ -15,7 +15,7 @@ Quia Eurytus Nolebat, capta est Oechalia ab Hercule.
 
 Dixit se patrem occisurum esse. 
 
-Iole patiebatur parentes occisos esse. 
+Iole patiebatur parentes suos occisos esse. 
 
 Cum Herculem occisus erat familias, misit ad Iolen Deinariae.❌ 
 
