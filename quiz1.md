@@ -1,3 +1,4 @@
+**Full credit**
 
 Identify the gender, case and number, and gender of each noun. If there are multiple possible forms, list all options. Translate prepositional phrases.
 
