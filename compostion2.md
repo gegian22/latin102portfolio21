@@ -1,3 +1,5 @@
+**Needs revisions**
+
 You already know the background to this story: Deianira was tricked by Nessus into believing that the vial of poison he gave her was actually a love potion.
 
 
@@ -19,13 +21,13 @@ induo, induĕre, indui, indutum “put on an article of dress or ornament”
 statim (adv.) “immediately”
 flammo, flammare, flammavi, flammatus “flame, burn”
 
-1.Cum Deinara, Herclues uxorem et filia Oeneus, vidit Iolen puellam adducere esse, coepit machinari ne ad privaretur conjuge.  
+1.Cum Deianira, Herclues uxorem❌ et filia Oeneus, vidit Iolen puellam adducere❌ esse, coepit machinari ne ad❌ privaretur conjuge.  
 
-2.Deianira se interfecit famulum suum misit ad vestem dandum Herculi tinctum sanguine Nessi, quem putavit philtrum esse. 
+2.Deianira se interfecit❌ famulum suum misit ad vestem dandum Herculi tinctum sanguine Nessi, quem putavit philtrum esse. 
 
-3.Quod Herculem induendum vestimentum, statim flammabat. 
+3.Quod❌ Herculem induendum vestimentum, statim flammabat. 
 
-4.Herculem famulam misit, quibus Deinara quos misisti ferre vestimentum, in mare. 
+4.Herculem famulam misit❌, quibus Deinara quos misisti ferre vestimentum, in mare. 
 
 5.Dicitur Herculem surrexisse ad immortalitem et Deianira ipsa se interfecit. 
 
