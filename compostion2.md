@@ -27,7 +27,7 @@ flammo, flammare, flammavi, flammatus “flame, burn”
 
 3.Hercules induit vestimentum, statim flammabat. 
 
-4.Herculem famulum in mare iecit, quem Deinara misit ad vestem adducendum. 
+4.Herculem famulum in mare iecit, quem Deinara misit ad vestem adducenda. 
 
 5.Dicitur Herculem surrexisse ad immortalitem et Deianira ipsa se interfecit. 
 
