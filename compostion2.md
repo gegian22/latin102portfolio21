@@ -1,4 +1,3 @@
-**Needs revisions**
 
 You already know the background to this story: Deianira was tricked by Nessus into believing that the vial of poison he gave her was actually a love potion.
 
